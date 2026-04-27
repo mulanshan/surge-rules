@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN,ai.jetbrains.com
 DOMAIN-SUFFIX,v0.dev
+DOMAIN-SUFFIX,aws.dev
+DOMAIN-SUFFIX,kiro.dev
 
 # AI search / model providers / inference
 DOMAIN-SUFFIX,perplexity.ai
@@ -48,4 +50,3 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-
