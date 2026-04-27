@@ -18,6 +18,7 @@ Replace `mulanshan/surge-rules` with your own GitHub repository path after publi
 
 # Personal overrides should be placed before broad China / Google / Microsoft / GitHub rules.
 RULE-SET,https://raw.githubusercontent.com/mulanshan/surge-rules/main/rules/douban.list,Proxy,extended-matching,no-resolve
+RULE-SET,https://raw.githubusercontent.com/mulanshan/surge-rules/main/rules/tmdb.list,TW,extended-matching,no-resolve
 RULE-SET,https://raw.githubusercontent.com/mulanshan/surge-rules/main/rules/ai.list,Ai,extended-matching,no-resolve
 ```
 
@@ -25,6 +26,7 @@ RULE-SET,https://raw.githubusercontent.com/mulanshan/surge-rules/main/rules/ai.l
 
 - `rules/ai.list`: Combined AI services.
 - `rules/douban.list`: Douban web, mobile web, app API, and image/static resources.
+- `rules/tmdb.list`: The Movie Database website, API, and image resources.
 - `examples/rule-section.conf`: Example `[Rule]` section.
 
 ## Notes
