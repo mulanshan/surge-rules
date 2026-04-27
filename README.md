@@ -38,4 +38,3 @@ RULE-SET,https://raw.githubusercontent.com/mulanshan/surge-rules/main/rules/dev-
 Put specific personal rules before broad community rules. For example, `douban.list` should be placed before China direct rules if you want Douban to use a proxy policy.
 
 For domain-heavy rule sets, use `extended-matching` on the `RULE-SET` line so Surge can also match SNI and HTTP Host / `:authority`.
-
