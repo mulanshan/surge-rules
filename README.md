@@ -25,7 +25,6 @@ RULE-SET,https://raw.githubusercontent.com/mulanshan/surge-rules/main/rules/ai.l
 
 - `rules/ai.list`: Combined AI services.
 - `rules/douban.list`: Douban web, mobile web, app API, and image/static resources.
-- `rules/private-extra.list`: Personal direct-connect patches.
 - `examples/rule-section.conf`: Example `[Rule]` section.
 
 ## Notes
