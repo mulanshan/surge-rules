@@ -1,0 +1,15 @@
+# AI model API and inference platforms
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+

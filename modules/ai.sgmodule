@@ -1,0 +1,6 @@
+#!name=Mulanshan AI Rules
+#!desc=Route personal AI rule set to the Ai policy group.
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/mulanshan/surge-rules/main/rules/ai.list,Ai,extended-matching,no-resolve
+

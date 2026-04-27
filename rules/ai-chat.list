@@ -1,0 +1,23 @@
+# AI chat products
+
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,notebooklm.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
