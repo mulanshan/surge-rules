@@ -1,25 +1,14 @@
-# AI / LLM / Coding aggregate
+# AI / LLM / Coding supplements
+#
+# Put blackmatrix7 Gemini/OpenAI/Claude/Copilot before this ruleset.
+# This file only keeps AI domains not covered by those upstream rules.
 
-# OpenAI / ChatGPT
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-
-# Anthropic / Claude
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
+# Claude supplements
 DOMAIN-SUFFIX,claudeusercontent.com
 
-# Google AI / Gemini
-DOMAIN,ai.google.dev
+# Google AI supplements
 DOMAIN,aistudio.google.com
 DOMAIN,notebooklm.google.com
-DOMAIN,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,deepmind.com
 
 # AI coding
 DOMAIN-SUFFIX,cursor.sh
